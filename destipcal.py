@@ -194,7 +194,7 @@ class Ui_MainWindow(object):
         self.comboBoxtipprecent.setItemText(1, QCoreApplication.translate("MainWindow", u"15%", None))
         self.comboBoxtipprecent.setItemText(2, QCoreApplication.translate("MainWindow", u"20%", None))
 
-        self.comboBoxtipprecent.setCurrentText(QCoreApplication.translate("MainWindow", u"10%", None))
+        self.comboBoxtipprecent.setCurrentText(QCoreApplication.translate("MainWindow", u"15%", None))
         self.labelresultperpersonnumber.setText(QCoreApplication.translate("MainWindow", u"0,00\u0440\u0443\u0431.", None))
         self.pushButtonHistory.setText(QCoreApplication.translate("MainWindow", u"\u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0438\u0441\u0442\u043e\u0440\u0438\u044e \u0440\u0430\u0441\u0447\u0435\u0442\u043e\u0432", None))
     # retranslateUi
